@@ -7,10 +7,12 @@ import random
 
 def activation(size, chars=string.ascii_uppercase+string.digits):
     res = {}
-    for i in range(start=1, stop=200):
+    for i in range(1, 201):
         activation_code = ''.join(random.choice(chars) for _ in range(size))
-        res.setdefault()
+        res.setdefault(i, activation_code)
+    return res
 
-print(activation(16))
 
+result = activation(16)
+print(result)
 
