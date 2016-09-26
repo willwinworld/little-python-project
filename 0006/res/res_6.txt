@@ -1,0 +1,18 @@
+{
+    "can't": 1,
+    "don't": 2,
+    "i": 3,
+    "language,": 1,
+    "lazy": 1,
+    "people,": 1,
+    "relate": 1,
+    "same": 1,
+    "speak": 1,
+    "the": 1,
+    "to": 1,
+    "understand": 1,
+    "want": 1,
+    "we": 1,
+    "you,": 1,
+    "you.": 1
+}

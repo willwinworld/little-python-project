@@ -1,0 +1,14 @@
+{
+    "Everything": 1,
+    "all": 1,
+    "an": 1,
+    "challenges,": 1,
+    "for": 1,
+    "is": 1,
+    "me": 1,
+    "negative,": 1,
+    "opportunity": 1,
+    "pressure,": 1,
+    "rise.": 1,
+    "to": 1
+}

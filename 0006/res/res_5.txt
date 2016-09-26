@@ -1,0 +1,11 @@
+{
+    "afraid": 1,
+    "fail,": 1,
+    "fail.": 1,
+    "going": 1,
+    "if": 1,
+    "probably": 1,
+    "then": 1,
+    "to": 2,
+    "you're": 2
+}
