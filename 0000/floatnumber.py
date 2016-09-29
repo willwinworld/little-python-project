@@ -1,9 +1,10 @@
 #! python3
 # -*- coding: utf-8 -*-
+from PIL import Image, ImageFont, ImageDraw
 """图片原点坐标为左上角，现在要确定图片的右上角"""
 """http://yxnt.github.io/2016/05/15/Pillow-Python3.5/"""
 """http://blog.csdn.net/justheretobe/article/details/50612618"""
-from PIL import Image, ImageFont, ImageDraw
+
 
 
 # im = Image.open("cat.png")
