@@ -1,5 +1,8 @@
 #! python3
 # -*- coding: utf-8 -*-
+"""http://blog.csdn.net/sophie2805/article/details/48143237
+http://stackoverflow.com/questions/1894269/convert-string-representation-of-list-to-list-in-python
+http://stackoverflow.com/questions/15004838/how-to-write-a-list-to-xlsx-using-openpyxl"""
 import ast
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, colors
