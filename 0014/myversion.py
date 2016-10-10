@@ -30,7 +30,7 @@ def put_data_to_xlsx():
     ws = wb.create_sheet("data", 0)
     alignment = Alignment(horizontal='center', vertical='center')
     font = Font(bold=True, color=colors.RED)
-    titles = ['#', '姓名', '数学', '英语', '语文']
+    titles = ['id', '姓名', '数学', '英语', '语文']
     title_row = 1  # 标题所在行数
     for index, title in enumerate(titles, start=1):
         ws.cell(row=title_row, column=index).value = title
